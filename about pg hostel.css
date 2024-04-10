@@ -1,0 +1,70 @@
+.main{
+    padding: 40px;
+}
+.navv{
+    padding: 4px;
+}
+h1 {
+    color: blue;
+    font-size: 30px;
+    text-align: center;
+
+
+}
+.navii{
+    background-color:aliceblue;
+    padding-left: 10px;
+    border-radius:5px;
+}
+#pag1{
+    padding: 40px;
+}
+#hrr1{
+    position: absolute;
+    left: 48%;
+    width: 60px;
+    border: 3px solid blue;
+    float:left;
+}
+#hrr2{
+    position: absolute;
+    left: 48%;
+    width: 80px;
+    border: 3px solid blue;
+    float:left;
+}
+#hrr3{
+    position: absolute;
+    left:5%;
+    width: 99px;
+    border: 3px solid blue;
+    float:left;
+}
+#hrr4{
+    position: absolute;
+    left: 120px;
+    width: 140px;
+    border: 3px solid blue;
+    float:left;
+}
+#head{
+    color:blue;
+}
+.grid-container {
+    display: grid;
+    grid-gap: 20px;
+    grid-template-columns: auto auto;
+}
+#xx{
+    color:brown;
+}
+.gridd{
+    display: grid;
+grid-gap: 20px;
+grid-template-columns: auto auto;
+}
+footer{
+    background-color: black;
+    color: white;
+    padding: 15px;
+}
